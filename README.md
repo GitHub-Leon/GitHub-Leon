@@ -9,7 +9,6 @@ You can use the website to generate badges: https://shields.io/
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:leon.pliessnig@outlook.com)
 
 &nbsp;
-
 **Talking about Personal Stuff:**
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/GitHub-Leon/GitHub-Leon/master/.resources/git-header.svg" />
@@ -43,6 +42,9 @@ You can use the website to generate badges: https://shields.io/
 
   <a href="https://www.buymeacoffee.com/GitHubLeon" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/GitHub-Leon/GitHub-Leon/master/.resources/support-buy-coffee.png"/>
+  </a>
+   <a href="https://github.com/GitHub-Leon/GitHub-Leon/master/.resources/crypto.md" target="_blank">
+      <img width="18%" alt="Donate crypto" src="https://raw.githubusercontent.com/GitHub-Leon/GitHub-Leon/master/.resources/support-crypto.png"/>
   </a>
 </p>
 
