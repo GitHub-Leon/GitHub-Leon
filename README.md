@@ -7,6 +7,7 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GitHub-Leon)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leon-pließnig-8363131bb/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:leon.pliessnig@outlook.com)
+![Profile views](https://gpvc.arturio.dev/GitHub-Leon)
 
 &nbsp;
 **Talking about Personal Stuff:**
@@ -47,4 +48,3 @@ You can use the website to generate badges: https://shields.io/
       <img width="18%" alt="Donate crypto" src="https://raw.githubusercontent.com/GitHub-Leon/GitHub-Leon/master/.resources/support-crypto.png"/>
   </a>
 </p>
-
