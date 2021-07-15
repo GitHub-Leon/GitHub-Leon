@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 
 <p>
   <a href="https://github.com/GitHub-Leon">
-    <img width="55%" align="right" alt="Leon's github stats" src="https://raw.githubusercontent.com/GitHub-Leon/github-stats/master/generated/overview.svg?token=AQY3S2JO4M6M5ZOOLPCP3HLAY5BAM" />
+    <img width="55%" align="right" alt="Leon's github stats" src="https://raw.githubusercontent.com/GitHub-Leon/github-stats/master/generated/overview.svg?token=AQY3S2L6VNFVWSD7BU3MXEDA7FZLC" />
   </a>
   
 
