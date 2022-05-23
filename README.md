@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/GitHub-Leon/GitHub-Leon/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on a Trading Bot for Cryptocurrencies;
-- 🌱 I’m currently learning C++ and C#;
+- 🌱 I’m currently learning C++ and C;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I hate sunny days;
 - 📫 How to reach me: leon.pliessnig@outlook.com;
@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 
 <p>
   <a href="https://github.com/GitHub-Leon">
-    <img width="55%" align="right" alt="Leon's github stats" src="https://raw.githubusercontent.com/GitHub-Leon/github-stats/master/generated/overview.svg?token=AQY3S2L6VNFVWSD7BU3MXEDA7FZLC" />
+    <img width="55%" align="right" alt="Leon's github stats" src="https://raw.githubusercontent.com/GitHub-Leon/github-stats/master/generated/overview.svg" />
   </a>
   
 
